@@ -8,4 +8,4 @@ Usage:
 
 2. Run "python generate-patches.py" then open the patchesauto folder generated
 
-NOTE: Creation of binary patches don't work :(
+NOTE: Creation of binary patches doesn't work :(
